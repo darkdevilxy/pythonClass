@@ -20,4 +20,3 @@ while 1 > 0:
     command = input("> ")
     command.lower()
     print(commands(command))
-print("HEllo world")
